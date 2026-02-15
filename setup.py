@@ -1,0 +1,16 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="ad_monitor_bot",
+    version="1.0.0",
+    packages=find_packages(),
+    install_requires=[
+        "aiogram==3.25.0",
+        "selenium==4.18.1",
+        "webdriver-manager==4.0.1",
+        "beautifulsoup4==4.12.3",
+        "requests==2.31.0",
+        "python-dotenv==1.0.0",
+        "aiofiles==23.2.1",
+    ],
+)
