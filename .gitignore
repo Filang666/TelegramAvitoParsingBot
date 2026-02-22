@@ -2,14 +2,4 @@
 final.py
 venv
 monitor.log
-src/__pycache__/aiogram_run.cpython-314.pyc
-src/__pycache__/create_bot.cpython-314.pyc
-src/__pycache__/parsing.cpython-314.pyc
-src/__pycache__/read.cpython-314.pyc
-src/__pycache__/states.cpython-314.pyc
-src/__pycache__/user_manager.cpython-314.pyc
-src/handlers/__pycache__/category.cpython-314.pyc
-src/handlers/__pycache__/monitor.cpython-314.pyc
-src/handlers/__pycache__/settings.cpython-314.pyc
-src/handlers/__pycache__/start.cpython-314.pyc
-src/keyboards/__pycache__/keyboard.cpython-314.pyc
+**/__pycache__
